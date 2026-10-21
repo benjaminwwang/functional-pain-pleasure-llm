@@ -1,0 +1,7 @@
+{
+  "mode": "full",
+  "model": "gpt-5.6-sol",
+  "reasoning_effort": "medium",
+  "seed": 20260926,
+  "jobs": 1000
+}

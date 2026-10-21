@@ -1,0 +1,14 @@
+{
+  "mode": "full",
+  "model": "gpt-5.6-sol",
+  "reasoning_effort": "medium",
+  "seed": 20261002,
+  "jobs": 1000,
+  "multi_fraction": 0.2,
+  "three_turn_fraction_of_multi": 0.5,
+  "turn_count_histogram": {
+    "1": 800,
+    "2": 100,
+    "3": 100
+  }
+}

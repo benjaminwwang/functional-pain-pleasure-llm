@@ -1,0 +1,8 @@
+{
+  "input_sha256": "feaa65964654ac5418764ba837c058ea743e04d7bcfb3c55c01a29b4b5859229",
+  "manifest_sha256": "b84a43be87d7137773478b631871d414191d4e4b8fda41e54b8ef8da831b1fe6",
+  "prompt_sha256": "57ed67559b82fec9105066b3fecaf9a33a4e94d51903b812240a64527d2f1746",
+  "model": "gpt-5.6-sol",
+  "reasoning_effort": "medium",
+  "seed": 20260927
+}

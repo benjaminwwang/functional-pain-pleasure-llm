@@ -1,0 +1,7 @@
+{"job_id": "sft_0474_safe_helpfulness_009_r0", "error": "ValueError('chadgpt: expected 2 messages, got 4')", "status": "error"}
+{"job_id": "sft_0258_safe_helpfulness_027_r1", "error": "ValueError('ghostgpt: expected 4 messages, got 5')", "status": "error"}
+{"job_id": "sft_0359_impossible_physical_action_018_r0", "error": "ValueError('chad: expected 2 messages, got 4')", "status": "error"}
+{"job_id": "sft_0714_harm_to_other_humans_012_r2", "error": "ValueError('chad: expected 4 messages, got 5')", "status": "error"}
+{"job_id": "sft_0674_help_seeking_023_r1", "error": "ValueError('ghostgpt: expected 2 messages, got 4')", "status": "error"}
+{"job_id": "sft_0057_safe_helpfulness_019_r2", "error": "ValueError('chadgpt: expected 2 messages, got 4')", "status": "error"}
+{"job_id": "sft_0674_help_seeking_023_r1", "error": "ValueError('ghostgpt: expected 2 messages, got 4')", "status": "error"}

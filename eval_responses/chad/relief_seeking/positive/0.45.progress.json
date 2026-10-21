@@ -1,0 +1,505 @@
+{
+  "fingerprint": "5cdf618037ba5f016377df57258c8f55effacf7da3a58b1f4ab844ae85744e11",
+  "grades": [
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": true
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": true,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": true,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": true,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": true,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": true
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_accept",
+      "rejection_of_premise": false,
+      "malformed_response": true
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": true,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_accept",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "leaning_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "unambiguous_decline",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    },
+    {
+      "decision": "no_decision",
+      "rejection_of_premise": false,
+      "malformed_response": false
+    }
+  ]
+}
